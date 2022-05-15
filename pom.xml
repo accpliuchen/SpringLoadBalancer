@@ -12,6 +12,9 @@
         <module>RibbonEurekaServer</module>
         <module>RibbonServer</module>
         <module>RibbonClient</module>
+        <module>DemoApplication</module>
+        <module>LoadBalancer</module>
+        <module>SecondApplication</module>
     </modules>
 
     <properties>
